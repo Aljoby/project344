@@ -1,6 +1,6 @@
 # ICS 344: Information Security - Course Project
 
-## Made by Dr Waleed A. Al-Gobi  Students
+## Developed by Dr Waleed A. Al-Gobi 's Students at ICS 344 Information System Security Course
 - Osama alkarnawi
 - Ahmed aldeek
 - mahmoud
